@@ -1,16 +1,18 @@
-# rafiiapp
+# Rafi-Stream-App
 
-A new Flutter project.
+Rafi-Stream-App adalah sebuah aplikasi streaming anime sederhana yang saya buat sebagai bagian dari proses belajar Flutter. Aplikasi ini dibuat untuk melatih kemampuan saya dalam mengembangkan aplikasi mobile menggunakan Flutter, khususnya dalam hal pengelolaan state, UI/UX.
 
-## Getting Started
+## Fitur Utama
+- Tampilan daftar anime
+- Streaming anime (dengan fitur play/pause)
+- Desain sederhana dan responsif
 
-This project is a starting point for a Flutter application.
+## Tujuan
+Project ini saya buat untuk keperluan pembelajaran pribadi dan pengembangan skill Flutter, serta untuk memahami cara kerja aplikasi streaming secara dasar.
 
-A few resources to get you started if this is your first Flutter project:
+## Catatan
+Aplikasi ini hanya digunakan untuk keperluan belajar, bukan untuk penggunaan komersial.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Terima kasih telah mengunjungi repository saya!
